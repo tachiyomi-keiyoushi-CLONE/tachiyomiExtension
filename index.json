@@ -14754,10 +14754,10 @@
   {
     "name": "Tachiyomi: ManyToon",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoon",
-    "apk": "tachiyomi-en.manytoon-v1.4.45.apk",
+    "apk": "tachiyomi-en.manytoon-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14766,7 +14766,7 @@
         "name": "ManyToon",
         "lang": "en",
         "id": "8506087325905168576",
-        "baseUrl": "https://manytoon.com",
+        "baseUrl": "https://manytoon.org",
         "versionId": 1
       }
     ]
@@ -19061,10 +19061,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.18.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.19.apk",
     "lang": "es",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19073,7 +19073,7 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://ikigaimangas.com",
+        "baseUrl": "https://lectorikigai.acamu.net",
         "versionId": 1
       }
     ]
@@ -22955,10 +22955,10 @@
   {
     "name": "Tachiyomi: ManhwaDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
-    "apk": "tachiyomi-id.manhwadesu-v1.4.35.apk",
+    "apk": "tachiyomi-id.manhwadesu-v1.4.36.apk",
     "lang": "id",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22967,7 +22967,7 @@
         "name": "ManhwaDesu",
         "lang": "id",
         "id": "8258394658125354785",
-        "baseUrl": "https://manhwadesu.cc",
+        "baseUrl": "https://manhwadesu.my",
         "versionId": 1
       }
     ]
@@ -30983,10 +30983,10 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.46.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.47.apk",
     "lang": "tr",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30995,7 +30995,7 @@
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.pro",
+        "baseUrl": "https://grimelek.dev",
         "versionId": 1
       }
     ]
@@ -31663,10 +31663,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.8.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31675,7 +31675,7 @@
         "name": "SayHentai",
         "lang": "vi",
         "id": "4370817879994829481",
-        "baseUrl": "https://sayhentai.one",
+        "baseUrl": "https://sayhentai.art",
         "versionId": 1
       }
     ]
