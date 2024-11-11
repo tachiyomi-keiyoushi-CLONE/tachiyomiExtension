@@ -3460,6 +3460,47 @@
     ]
   },
   {
+    "name": "Tachiyomi: SchaleNetwork",
+    "pkg": "eu.kanade.tachiyomi.extension.all.koharu",
+    "apk": "tachiyomi-all.koharu-v1.4.10.apk",
+    "lang": "all",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SchaleNetwork",
+        "lang": "all",
+        "id": "713326856395200688",
+        "baseUrl": "https://schale.network",
+        "versionId": 1
+      },
+      {
+        "name": "SchaleNetwork",
+        "lang": "en",
+        "id": "1484902275639232927",
+        "baseUrl": "https://schale.network",
+        "versionId": 1
+      },
+      {
+        "name": "SchaleNetwork",
+        "lang": "ja",
+        "id": "8512356093551591735",
+        "baseUrl": "https://schale.network",
+        "versionId": 1
+      },
+      {
+        "name": "SchaleNetwork",
+        "lang": "zh",
+        "id": "8839994618804276749",
+        "baseUrl": "https://schale.network",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
     "apk": "tachiyomi-all.komga-v1.4.58.apk",
@@ -6555,6 +6596,40 @@
         "lang": "all",
         "id": "8965918600406781666",
         "baseUrl": "https://projectsuki.com/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pururin",
+    "pkg": "eu.kanade.tachiyomi.extension.all.pururin",
+    "apk": "tachiyomi-all.pururin-v1.4.10.apk",
+    "lang": "all",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pururin",
+        "lang": "all",
+        "id": "4326152278746463981",
+        "baseUrl": "https://pururin.me",
+        "versionId": 1
+      },
+      {
+        "name": "Pururin",
+        "lang": "en",
+        "id": "2221515250486218861",
+        "baseUrl": "https://pururin.me",
+        "versionId": 1
+      },
+      {
+        "name": "Pururin",
+        "lang": "ja",
+        "id": "995946880114959182",
+        "baseUrl": "https://pururin.me",
         "versionId": 1
       }
     ]
@@ -11580,26 +11655,6 @@
         "lang": "en",
         "id": "3112384885023225761",
         "baseUrl": "https://kissmanga.in",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: SchaleNetwork",
-    "pkg": "eu.kanade.tachiyomi.extension.en.koharu",
-    "apk": "tachiyomi-en.koharu-v1.4.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SchaleNetwork",
-        "lang": "en",
-        "id": "1484902275639232927",
-        "baseUrl": "https://schale.network",
         "versionId": 1
       }
     ]
@@ -16974,10 +17029,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.9.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31863,10 +31918,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.42.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.43.apk",
     "lang": "vi",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31875,7 +31930,7 @@
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.blog",
+        "baseUrl": "https://truyenvn.wiki",
         "versionId": 1
       }
     ]
