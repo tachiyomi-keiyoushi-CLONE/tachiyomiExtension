@@ -5176,10 +5176,10 @@
   {
     "name": "Tachiyomi: MangaReader",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
-    "apk": "tachiyomi-all.mangareaderto-v1.4.4.apk",
+    "apk": "tachiyomi-all.mangareaderto-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5188,6 +5188,13 @@
         "name": "MangaReader",
         "lang": "en",
         "id": "789561949979941461",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1
+      },
+      {
+        "name": "MangaReader",
+        "lang": "es",
+        "id": "53977152068044610",
         "baseUrl": "https://mangareader.to",
         "versionId": 1
       },
@@ -5209,6 +5216,13 @@
         "name": "MangaReader",
         "lang": "ko",
         "id": "8303923354296505005",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1
+      },
+      {
+        "name": "MangaReader",
+        "lang": "pt-BR",
+        "id": "381389368808327587",
         "baseUrl": "https://mangareader.to",
         "versionId": 1
       },
@@ -9147,10 +9161,10 @@
   {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
-    "apk": "tachiyomi-en.atsumaru-v1.4.1.apk",
+    "apk": "tachiyomi-en.atsumaru-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10782,10 +10796,10 @@
   {
     "name": "Tachiyomi: Harimanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.harimanga",
-    "apk": "tachiyomi-en.harimanga-v1.4.40.apk",
+    "apk": "tachiyomi-en.harimanga-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10794,7 +10808,7 @@
         "name": "Harimanga",
         "lang": "en",
         "id": "4088566215115473619",
-        "baseUrl": "https://harimanga.com",
+        "baseUrl": "https://harimanga.me",
         "versionId": 1
       }
     ]
@@ -20403,10 +20417,10 @@
   {
     "name": "Tachiyomi: Taurus Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.taurusfansub",
-    "apk": "tachiyomi-es.taurusfansub-v1.4.38.apk",
+    "apk": "tachiyomi-es.taurusfansub-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23830,10 +23844,10 @@
   {
     "name": "Tachiyomi: YuraManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.yuramanga",
-    "apk": "tachiyomi-id.yuramanga-v1.4.37.apk",
+    "apk": "tachiyomi-id.yuramanga-v1.4.38.apk",
     "lang": "id",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23842,7 +23856,7 @@
         "name": "YuraManga",
         "lang": "id",
         "id": "2549921199825144124",
-        "baseUrl": "https://yuramanga.my.id",
+        "baseUrl": "https://www.yuramanga.my.id",
         "versionId": 3
       }
     ]
@@ -24790,10 +24804,10 @@
   {
     "name": "Tachiyomi: Rawdevart.art",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawdevartart",
-    "apk": "tachiyomi-ja.rawdevartart-v1.4.2.apk",
+    "apk": "tachiyomi-ja.rawdevartart-v1.4.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26378,10 +26392,10 @@
   {
     "name": "Tachiyomi: Hunters Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
-    "apk": "tachiyomi-pt.huntersscans-v1.4.42.apk",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26390,7 +26404,7 @@
         "name": "Hunters Scan",
         "lang": "pt-BR",
         "id": "7310576253330700902",
-        "baseUrl": "https://htoons.online",
+        "baseUrl": "https://hunterscomics.com",
         "versionId": 1
       }
     ]
@@ -26718,10 +26732,10 @@
   {
     "name": "Tachiyomi: L Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.lscans",
-    "apk": "tachiyomi-pt.lscans-v1.4.37.apk",
+    "apk": "tachiyomi-pt.lscans-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26729,9 +26743,9 @@
       {
         "name": "L Scans",
         "lang": "pt-BR",
-        "id": "1632425447710607572",
+        "id": "5713813651918678286",
         "baseUrl": "https://lscans.com",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -26992,26 +27006,6 @@
         "id": "8959585632192744096",
         "baseUrl": "https://minitwoscan.com",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Mode Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
-    "apk": "tachiyomi-pt.modescanlator-v1.4.28.apk",
-    "lang": "pt-BR",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mode Scanlator",
-        "lang": "pt-BR",
-        "id": "6745627125404578928",
-        "baseUrl": "https://site.modescanlator.net",
-        "versionId": 2
       }
     ]
   },
@@ -27678,10 +27672,10 @@
   {
     "name": "Tachiyomi: Taiyō",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taiyo",
-    "apk": "tachiyomi-pt.taiyo-v1.4.1.apk",
+    "apk": "tachiyomi-pt.taiyo-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27690,7 +27684,7 @@
         "name": "Taiyō",
         "lang": "pt-BR",
         "id": "7387610647818309943",
-        "baseUrl": "https://www.taiyo.moe",
+        "baseUrl": "https://taiyo.moe",
         "versionId": 1
       }
     ]
@@ -29718,10 +29712,10 @@
   {
     "name": "Tachiyomi: Domal Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.domalfansub",
-    "apk": "tachiyomi-tr.domalfansub-v1.4.37.apk",
+    "apk": "tachiyomi-tr.domalfansub-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29730,7 +29724,7 @@
         "name": "Domal Fansub",
         "lang": "tr",
         "id": "1807480150517467938",
-        "baseUrl": "https://domalfansub.com.tr",
+        "baseUrl": "https://domalfansb.online",
         "versionId": 1
       }
     ]
@@ -32718,10 +32712,10 @@
   {
     "name": "Tachiyomi: Roumanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
-    "apk": "tachiyomi-zh.roumanwu-v1.4.11.apk",
+    "apk": "tachiyomi-zh.roumanwu-v1.4.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
