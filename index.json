@@ -21924,10 +21924,10 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.36.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27605,6 +27605,26 @@
         "lang": "pt-BR",
         "id": "5618833222165156043",
         "baseUrl": "https://luratoons.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Read Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
+    "apk": "tachiyomi-pt.readmangas-v1.4.30.apk",
+    "lang": "pt-BR",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Read Mangas",
+        "lang": "pt-BR",
+        "id": "7156283065607892957",
+        "baseUrl": "https://readmangas.org",
         "versionId": 1
       }
     ]
