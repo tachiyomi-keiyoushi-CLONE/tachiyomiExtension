@@ -8881,10 +8881,10 @@
   {
     "name": "Tachiyomi: Animated Glitched Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
-    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.30.apk",
+    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8892,9 +8892,9 @@
       {
         "name": "Animated Glitched Comics",
         "lang": "en",
-        "id": "6872417312672610361",
-        "baseUrl": "https://agscomics.com",
-        "versionId": 1
+        "id": "8373624335456547405",
+        "baseUrl": "https://agrcomics.com",
+        "versionId": 2
       }
     ]
   },
