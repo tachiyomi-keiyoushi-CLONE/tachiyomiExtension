@@ -31028,10 +31028,10 @@
   {
     "name": "Tachiyomi: Opiatoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.opiatoon",
-    "apk": "tachiyomi-tr.opiatoon-v1.4.37.apk",
+    "apk": "tachiyomi-tr.opiatoon-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31040,7 +31040,7 @@
         "name": "Opiatoon",
         "lang": "tr",
         "id": "2266890064732906146",
-        "baseUrl": "https://opiatoon.biz",
+        "baseUrl": "https://opiatoon.pro",
         "versionId": 1
       }
     ]
@@ -32068,10 +32068,10 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.7.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32080,7 +32080,7 @@
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyenww.pro",
+        "baseUrl": "https://www.toptruyento.pro",
         "versionId": 1
       }
     ]
@@ -32188,10 +32188,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.43.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.44.apk",
     "lang": "vi",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32200,7 +32200,7 @@
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.wiki",
+        "baseUrl": "https://truyenvn.vin",
         "versionId": 1
       }
     ]
@@ -32268,10 +32268,10 @@
   {
     "name": "Tachiyomi: XXManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.vi.xxmanhwa",
-    "apk": "tachiyomi-vi.xxmanhwa-v1.4.4.apk",
+    "apk": "tachiyomi-vi.xxmanhwa-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32280,7 +32280,7 @@
         "name": "XXManhwa",
         "lang": "vi",
         "id": "1922561574226594511",
-        "baseUrl": "https://s1.xxmanhwa1.top",
+        "baseUrl": "https://google.xxmanhwa2.top",
         "versionId": 1
       }
     ]
@@ -32408,10 +32408,10 @@
   {
     "name": "Tachiyomi: BILIBILI MANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bilibilimanga",
-    "apk": "tachiyomi-zh.bilibilimanga-v1.4.11.apk",
+    "apk": "tachiyomi-zh.bilibilimanga-v1.4.12.apk",
     "lang": "zh-Hans",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
