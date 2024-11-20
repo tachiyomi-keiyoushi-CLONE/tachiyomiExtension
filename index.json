@@ -11950,6 +11950,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: LikeManga.in",
+    "pkg": "eu.kanade.tachiyomi.extension.en.likemangain",
+    "apk": "tachiyomi-en.likemangain-v1.4.37.apk",
+    "lang": "en",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LikeMangaIn",
+        "lang": "en",
+        "id": "828698548689586603",
+        "baseUrl": "https://likemanga.in",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lily Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.lilymanga",
     "apk": "tachiyomi-en.lilymanga-v1.4.40.apk",
