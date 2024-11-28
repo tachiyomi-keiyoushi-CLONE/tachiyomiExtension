@@ -10492,10 +10492,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.34.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10503,9 +10503,9 @@
       {
         "name": "Flame Comics",
         "lang": "en",
-        "id": "6350607071566689772",
+        "id": "8531542650987673943",
         "baseUrl": "https://flamecomics.xyz",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
