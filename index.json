@@ -5873,10 +5873,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.48.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.49.apk",
     "lang": "all",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11332,10 +11332,10 @@
   {
     "name": "Tachiyomi: InfinityScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infinityscans",
-    "apk": "tachiyomi-en.infinityscans-v1.4.4.apk",
+    "apk": "tachiyomi-en.infinityscans-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16997,6 +16997,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Snow Machine Translations",
+    "pkg": "eu.kanade.tachiyomi.extension.en.snowmtl",
+    "apk": "tachiyomi-en.snowmtl-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Snow Machine Translations",
+        "lang": "en",
+        "id": "4081896837386227017",
+        "baseUrl": "https://snowmtl.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Snow Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.snowscans",
     "apk": "tachiyomi-en.snowscans-v1.4.30.apk",
@@ -18740,6 +18760,26 @@
         "id": "1814471239661920836",
         "baseUrl": "https://cerberuseries.xyz",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ChoChoX",
+    "pkg": "eu.kanade.tachiyomi.extension.es.chochox",
+    "apk": "tachiyomi-es.chochox-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ChoChoX",
+        "lang": "es",
+        "id": "1434289653753200808",
+        "baseUrl": "https://chochox.com",
+        "versionId": 1
       }
     ]
   },
@@ -20773,10 +20813,10 @@
   {
     "name": "Tachiyomi: VCPVMP",
     "pkg": "eu.kanade.tachiyomi.extension.es.vcpvmp",
-    "apk": "tachiyomi-es.vcpvmp-v1.4.9.apk",
+    "apk": "tachiyomi-es.vcpvmp-v1.4.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
