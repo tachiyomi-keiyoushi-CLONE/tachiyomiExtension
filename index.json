@@ -1739,6 +1739,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: DeviantArt",
+    "pkg": "eu.kanade.tachiyomi.extension.all.deviantart",
+    "apk": "tachiyomi-all.deviantart-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DeviantArt",
+        "lang": "all",
+        "id": "5211324870873630158",
+        "baseUrl": "https://deviantart.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dragon Ball Multiverse",
     "pkg": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
     "apk": "tachiyomi-all.dragonballmultiverse-v1.4.6.apk",
@@ -7041,10 +7061,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.37.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.38.apk",
     "lang": "all",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15327,10 +15347,10 @@
   {
     "name": "Tachiyomi: NIGHT SCANS",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightscans",
-    "apk": "tachiyomi-en.nightscans-v1.4.38.apk",
+    "apk": "tachiyomi-en.nightscans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16087,11 +16107,11 @@
   {
     "name": "Tachiyomi: Read Chainsaw Man Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline",
-    "apk": "tachiyomi-en.readchainsawmanmangaonline-v1.4.4.apk",
+    "apk": "tachiyomi-en.readchainsawmanmangaonline-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -16099,7 +16119,7 @@
         "name": "Read Chainsaw Man Manga Online",
         "lang": "en",
         "id": "6207801235158968822",
-        "baseUrl": "https://ww1.readchainsawman.com",
+        "baseUrl": "https://ww4.readchainsawman.com",
         "versionId": 1
       }
     ]
