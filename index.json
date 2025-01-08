@@ -19160,10 +19160,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.20.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.21.apk",
     "lang": "es",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19172,7 +19172,7 @@
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://lectorikigai.bakeni.net",
+        "baseUrl": "https://visorikigai.tvsin.com",
         "versionId": 1
       }
     ]
@@ -20107,10 +20107,10 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.12.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.13.apk",
     "lang": "es",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20119,7 +20119,7 @@
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://olympuscomic.com",
+        "baseUrl": "https://olympuslectura.com",
         "versionId": 2
       }
     ]
@@ -32836,10 +32836,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.44.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.45.apk",
     "lang": "zh",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
