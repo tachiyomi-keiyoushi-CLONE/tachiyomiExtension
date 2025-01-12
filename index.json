@@ -11229,23 +11229,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaLife",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangalife",
-    "apk": "tachiyomi-en.mangalife-v1.4.28.apk",
-    "lang": "en",
-    "code": 28,
-    "version": "1.4.28",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MangaLife",
-        "lang": "en",
-        "id": "7798162483793432927",
-        "baseUrl": "https://manga4life.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaManiacs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamaniacs",
     "apk": "tachiyomi-en.mangamaniacs-v1.4.37.apk",
@@ -11667,23 +11650,6 @@
         "lang": "en",
         "id": "794477486574207780",
         "baseUrl": "https://mangasect.net"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaSee",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangasee",
-    "apk": "tachiyomi-en.mangasee-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MangaSee",
-        "lang": "en",
-        "id": "9",
-        "baseUrl": "https://mangasee123.com"
       }
     ]
   },
