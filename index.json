@@ -28649,5 +28649,22 @@
         "baseUrl": "http://www.zerobywzip.com"
       }
     ]
+  },
+  {
+    "name": "Honeytoon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.honeytoon",
+    "apk": "tachiyomi-en.honeytoon-v1.0.0.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Honeytoon",
+        "lang": "en",
+        "id": "1234567890123456789",
+        "baseUrl": "https://honeytoon.com",
+      }
+    ]
   }
 ]
