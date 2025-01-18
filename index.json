@@ -28583,6 +28583,23 @@
     ]
   },
   {
+  "name": "Tachiyomi: Weeb Central",
+  "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
+  "apk": "tachiyomi-en.weebcentral-v1.0.0.apk",
+  "lang": "en",
+  "code": 1,
+  "version": "1.0.0",
+  "nsfw": 0,
+  "sources": [
+    {
+      "name": "Weeb Central",
+      "lang": "en",
+      "id": "1234567890123456789",
+      "baseUrl": "https://weebcentral.com"
+    }
+  ]
+},
+  {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
     "apk": "tachiyomi-zh.wnacg-v1.4.17.apk",
