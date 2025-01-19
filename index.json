@@ -18451,10 +18451,10 @@
   {
     "name": "Tachiyomi: Mangas Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangasscans",
-    "apk": "tachiyomi-fr.mangasscans-v1.4.30.apk",
+    "apk": "tachiyomi-fr.mangasscans-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
@@ -18570,10 +18570,10 @@
   {
     "name": "Tachiyomi: Rimu Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.rimuscans",
-    "apk": "tachiyomi-fr.rimuscans-v1.4.30.apk",
+    "apk": "tachiyomi-fr.rimuscans-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
@@ -18689,10 +18689,10 @@
   {
     "name": "Tachiyomi: Soft Epsilon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
-    "apk": "tachiyomi-fr.softepsilonscan-v1.4.39.apk",
+    "apk": "tachiyomi-fr.softepsilonscan-v1.4.40.apk",
     "lang": "fr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -18774,10 +18774,10 @@
   {
     "name": "Tachiyomi: YaoiScan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.yaoiscan",
-    "apk": "tachiyomi-fr.yaoiscan-v1.4.30.apk",
+    "apk": "tachiyomi-fr.yaoiscan-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
