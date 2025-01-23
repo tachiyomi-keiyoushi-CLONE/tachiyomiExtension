@@ -16408,17 +16408,17 @@
   {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.43.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.44.apk",
     "lang": "es",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
         "name": "Emperor Scan",
         "lang": "es",
         "id": "4562754350961964148",
-        "baseUrl": "https://seriesemperor.com"
+        "baseUrl": "https://zonaemperor.com"
       }
     ]
   },
@@ -22287,10 +22287,10 @@
   {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.5.apk",
+    "apk": "tachiyomi-pt.bakai-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
@@ -24123,10 +24123,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.48.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.49.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
