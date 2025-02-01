@@ -24616,17 +24616,17 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.4.25.apk",
+    "apk": "tachiyomi-ru.desu-v1.4.26.apk",
     "lang": "ru",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "sources": [
       {
         "name": "Desu",
         "lang": "ru",
         "id": "6684416167758830305",
-        "baseUrl": "https://desu.win"
+        "baseUrl": "https://desu.store"
       }
     ]
   },
