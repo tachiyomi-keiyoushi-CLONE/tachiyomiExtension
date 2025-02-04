@@ -3324,10 +3324,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.198.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.199.apk",
     "lang": "all",
-    "code": 198,
-    "version": "1.4.198",
+    "code": 199,
+    "version": "1.4.199",
     "nsfw": 1,
     "sources": [
       {
@@ -14139,19 +14139,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Rizz Comic",
+    "name": "Tachiyomi: Realm Oasis",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.35.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "sources": [
       {
-        "name": "Rizz Comic",
+        "name": "Realm Oasis",
         "lang": "en",
-        "id": "1222303582140858680",
-        "baseUrl": "https://rizzfables.com"
+        "id": "2800985175674503515",
+        "baseUrl": "https://realmoasis.com"
       }
     ]
   },
@@ -21435,19 +21435,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf370.com"
+        "baseUrl": "https://wfwf371.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf370.com"
+        "baseUrl": "https://wfwf371.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf370.com"
+        "baseUrl": "https://wfwf371.com"
       }
     ]
   },
@@ -25398,17 +25398,17 @@
   {
     "name": "Tachiyomi: Jiangzaitoon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.jiangzaitoon",
-    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.48.apk",
+    "apk": "tachiyomi-tr.jiangzaitoon-v1.4.49.apk",
     "lang": "tr",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
         "name": "Jiangzaitoon",
         "lang": "tr",
         "id": "2533138448805911283",
-        "baseUrl": "https://jiangzaitoon.one"
+        "baseUrl": "https://jiangzaitoon.kim"
       }
     ]
   },
