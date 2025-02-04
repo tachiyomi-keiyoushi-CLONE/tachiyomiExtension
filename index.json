@@ -995,6 +995,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic Growl",
+    "pkg": "eu.kanade.tachiyomi.extension.all.comicgrowl",
+    "apk": "tachiyomi-all.comicgrowl-v1.4.6.apk",
+    "lang": "all",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "コミックグロウル",
+        "lang": "all",
+        "id": "3178619745776554387",
+        "baseUrl": "https://comic-growl.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
     "apk": "tachiyomi-all.comickfun-v1.4.52.apk",
