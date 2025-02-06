@@ -8348,10 +8348,10 @@
   {
     "name": "Tachiyomi: BatCave",
     "pkg": "eu.kanade.tachiyomi.extension.en.batcave",
-    "apk": "tachiyomi-en.batcave-v1.4.1.apk",
+    "apk": "tachiyomi-en.batcave-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -9109,17 +9109,17 @@
   {
     "name": "Tachiyomi: Eros Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
-    "apk": "tachiyomi-en.erosscans-v1.4.32.apk",
+    "apk": "tachiyomi-en.erosscans-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
         "name": "Eros Scans",
         "lang": "en",
         "id": "1124131000360667434",
-        "baseUrl": "https://eros-toons.xyz"
+        "baseUrl": "https://sobicscans.xyz"
       }
     ]
   },
@@ -11041,23 +11041,6 @@
         "lang": "en",
         "id": "4955933311151820801",
         "baseUrl": "https://mangafreak.online"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Galaxy",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
-    "apk": "tachiyomi-en.mangagalaxy-v1.4.46.apk",
-    "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Manga Galaxy",
-        "lang": "en",
-        "id": "7487073245225119331",
-        "baseUrl": "https://mangagalaxy.net"
       }
     ]
   },
@@ -13625,23 +13608,6 @@
         "lang": "en",
         "id": "6207801235158968822",
         "baseUrl": "https://ww4.readchainsawman.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ReadComicNet",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readcomicnet",
-    "apk": "tachiyomi-en.readcomicnet-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "ReadComicNet",
-        "lang": "en",
-        "id": "6225640379944128563",
-        "baseUrl": "https://readcomic.net"
       }
     ]
   },
@@ -16525,20 +16491,14 @@
     ]
   },
   {
-    "name": "Tachiyomi: TuMangaOnline / LectorManga",
+    "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectortmo",
-    "apk": "tachiyomi-es.lectortmo-v1.4.4.apk",
+    "apk": "tachiyomi-es.lectortmo-v1.4.6.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
-      {
-        "name": "LectorManga",
-        "lang": "es",
-        "id": "7925520943983324764",
-        "baseUrl": "https://lectormanga.com"
-      },
       {
         "name": "TuMangaOnline",
         "lang": "es",
@@ -18885,17 +18845,17 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.64.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.65.apk",
     "lang": "id",
-    "code": 64,
-    "version": "1.4.64",
+    "code": 65,
+    "version": "1.4.65",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast01.com"
+        "baseUrl": "https://komikcast02.com"
       }
     ]
   },
@@ -19395,17 +19355,17 @@
   {
     "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.36.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "sources": [
       {
         "name": "Ikiru",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://ikiru.one"
+        "baseUrl": "https://ikiru.world"
       }
     ]
   },
@@ -20704,10 +20664,10 @@
   {
     "name": "Tachiyomi: MangaGun",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangagun",
-    "apk": "tachiyomi-ja.mangagun-v1.4.9.apk",
+    "apk": "tachiyomi-ja.mangagun-v1.4.10.apk",
     "lang": "ja",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
@@ -23086,17 +23046,17 @@
   {
     "name": "Tachiyomi: Norte Rose Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.norterosescan",
-    "apk": "tachiyomi-pt.norterosescan-v1.4.39.apk",
+    "apk": "tachiyomi-pt.norterosescan-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "sources": [
       {
         "name": "Norte Rose Scan",
         "lang": "pt-BR",
         "id": "2793173076509203436",
-        "baseUrl": "https://norterose.com.br"
+        "baseUrl": "https://norterose.xyz"
       }
     ]
   },
@@ -23290,10 +23250,10 @@
   {
     "name": "Tachiyomi: Read Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
-    "apk": "tachiyomi-pt.readmangas-v1.4.37.apk",
+    "apk": "tachiyomi-pt.readmangas-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
@@ -24072,17 +24032,17 @@
   {
     "name": "Tachiyomi: MangaChan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangachan",
-    "apk": "tachiyomi-ru.mangachan-v1.4.17.apk",
+    "apk": "tachiyomi-ru.mangachan-v1.4.18.apk",
     "lang": "ru",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaChan",
         "lang": "ru",
         "id": "7",
-        "baseUrl": "https://manga-chan.me"
+        "baseUrl": "https://im.manga-chan.me"
       }
     ]
   },
@@ -26877,17 +26837,17 @@
   {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-    "apk": "tachiyomi-vi.manhuarock-v1.4.10.apk",
+    "apk": "tachiyomi-vi.manhuarock-v1.4.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
         "name": "ManhuaRock",
         "lang": "vi",
         "id": "5818973680777851987",
-        "baseUrl": "https://manhuarockz.com"
+        "baseUrl": "https://manhuarock1.com"
       }
     ]
   },
@@ -27693,10 +27653,10 @@
   {
     "name": "Tachiyomi: ManHuaGui",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manhuagui",
-    "apk": "tachiyomi-zh.manhuagui-v1.4.21.apk",
+    "apk": "tachiyomi-zh.manhuagui-v1.4.22.apk",
     "lang": "zh",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {
