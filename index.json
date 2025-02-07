@@ -6162,12 +6162,18 @@
   {
     "name": "Tachiyomi: Snow Machine Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.snowmtl",
-    "apk": "tachiyomi-all.snowmtl-v1.4.10.apk",
+    "apk": "tachiyomi-all.snowmtl-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
+      {
+        "name": "Snow Machine Translations",
+        "lang": "ar",
+        "id": "3256725460652928083",
+        "baseUrl": "https://snowmtl.ru"
+      },
       {
         "name": "Snow Machine Translations",
         "lang": "en",
@@ -7870,6 +7876,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Aein Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aeinscans",
+    "apk": "tachiyomi-en.aeinscans-v1.4.13.apk",
+    "lang": "en",
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aein Scans",
+        "lang": "en",
+        "id": "5167190516702075823",
+        "baseUrl": "https://aeinscans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Aisha",
     "pkg": "eu.kanade.tachiyomi.extension.en.aisha",
     "apk": "tachiyomi-en.aisha-v1.4.39.apk",
@@ -7972,29 +7995,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Aniglis Novels",
-    "pkg": "eu.kanade.tachiyomi.extension.en.aniglisnovels",
-    "apk": "tachiyomi-en.aniglisnovels-v1.4.13.apk",
-    "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Aniglis Novels",
-        "lang": "en",
-        "id": "6939619475994114317",
-        "baseUrl": "https://agsnovels.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Animated Glitched Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
-    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.35.apk",
+    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "sources": [
       {
@@ -9653,17 +9659,17 @@
   {
     "name": "Tachiyomi: Hentaidexy",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaidexy",
-    "apk": "tachiyomi-en.hentaidexy-v1.4.32.apk",
+    "apk": "tachiyomi-en.hentaidexy-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
         "name": "Hentaidexy",
         "lang": "en",
         "id": "3234990606508661587",
-        "baseUrl": "https://hentaidexy.net"
+        "baseUrl": "https://dexyscan.com"
       }
     ]
   },
@@ -14107,10 +14113,10 @@
   {
     "name": "Tachiyomi: Rezo Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rezoscans",
-    "apk": "tachiyomi-en.rezoscans-v1.4.15.apk",
+    "apk": "tachiyomi-en.rezoscans-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -16986,17 +16992,17 @@
   {
     "name": "Tachiyomi: NekoScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.nekoscans",
-    "apk": "tachiyomi-es.nekoscans-v1.4.34.apk",
+    "apk": "tachiyomi-es.nekoscans-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "sources": [
       {
         "name": "NekoScans",
         "lang": "es",
         "id": "4461682841795852378",
-        "baseUrl": "https://nekoscanlationlector.blogspot.com"
+        "baseUrl": "https://nekoscanlation.blogspot.com"
       }
     ]
   },
@@ -17139,17 +17145,17 @@
   {
     "name": "Tachiyomi: RichtoScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.richtoscan",
-    "apk": "tachiyomi-es.richtoscan-v1.4.39.apk",
+    "apk": "tachiyomi-es.richtoscan-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
         "name": "RichtoScan",
         "lang": "es",
         "id": "1245067583654716116",
-        "baseUrl": "https://richtoscan.com"
+        "baseUrl": "https://r1.richtoon.top"
       }
     ]
   },
@@ -23862,10 +23868,10 @@
   {
     "name": "Tachiyomi: Yushuke Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
-    "apk": "tachiyomi-pt.yushukemangas-v1.4.3.apk",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
