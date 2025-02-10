@@ -6162,10 +6162,10 @@
   {
     "name": "Tachiyomi: Snow Machine Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.snowmtl",
-    "apk": "tachiyomi-all.snowmtl-v1.4.11.apk",
+    "apk": "tachiyomi-all.snowmtl-v1.4.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -23322,6 +23322,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Safire Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.safirescan",
+    "apk": "tachiyomi-pt.safirescan-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Safire Scan",
+        "lang": "pt-BR",
+        "id": "6554678777877320878",
+        "baseUrl": "https://www.safirescan.xyz"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Saikai Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
     "apk": "tachiyomi-pt.saikaiscan-v1.4.11.apk",
@@ -23868,10 +23885,10 @@
   {
     "name": "Tachiyomi: Yushuke Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
-    "apk": "tachiyomi-pt.yushukemangas-v1.4.4.apk",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -24542,6 +24559,23 @@
         "lang": "th",
         "id": "7257262636858275074",
         "baseUrl": "https://ecchi-doujin.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: God-Doujin",
+    "pkg": "eu.kanade.tachiyomi.extension.th.goddoujin",
+    "apk": "tachiyomi-th.goddoujin-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "God-Doujin",
+        "lang": "th",
+        "id": "3638625079908519060",
+        "baseUrl": "https://god-doujin.com"
       }
     ]
   },
