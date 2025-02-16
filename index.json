@@ -26683,17 +26683,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.8.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui.com"
+        "baseUrl": "https://doctruyen3qui2.com"
       }
     ]
   },
